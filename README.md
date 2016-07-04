@@ -1,22 +1,7 @@
 # Palo_OP
-Operation and maintenance information for Palo
+Palo是百度开发的PB级联机分析处理引擎（OLAP Engine），为客户提供稳定、高效、低成本的在线报表和多维分析服务，这里主要管理使用Palo的文档和工具。
 
-![logo](/resource/doc/cockroach_db.png?raw=true "Cockroach Labs logo")
-
-
-[![Circle CI](https://circleci.com/gh/cockroachdb/cockroach.svg?style=svg)](https://circleci.com/gh/cockroachdb/cockroach) [![GoDoc](https://godoc.org/github.com/cockroachdb/cockroach?status.svg)](https://godoc.org/github.com/cockroachdb/cockroach) ![Project Status](https://img.shields.io/badge/status-beta-yellow.svg) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cockroachdb/cockroach?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-## A Scalable, Survivable, Strongly-Consistent SQL Database
-
-- [What is CockroachDB?](#what-is-cockroachdb)
-- [Docs](#docs)
-- [Quickstart](#quickstart)
-- [Client Drivers](#client-drivers)
-- [Deployment](#deployment)
-- [Get In Touch](#get-in-touch)
-- [Contributing](#contributing)
-- [Tech Talks](#tech-talks)
-- [Design](#design)
+ [![GoDoc](https://godoc.org/github.com/cockroachdb/cockroach?status.svg)](https://bce.baidu.com/product/palo.html)
 
 ## What is CockroachDB?
 
