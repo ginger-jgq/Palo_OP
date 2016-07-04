@@ -8,7 +8,7 @@ Palo是百度开发的PB级联机分析处理引擎（OLAP Engine），为客户
 
 ## 主要内容
 - tools: 常用工具
-- docs:  主要为针对某个专题的文档
+- docs:  主要为针对特定专题的文档
 
 ## 反馈
 如何您有问题或建议，请 [创建issue](https://github.com/ginger-jgq/Palo_OP/issues).
